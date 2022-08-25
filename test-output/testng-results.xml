@@ -2,24 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-21T16:44:05 IST" name="Default suite" finished-at="2022-08-21T16:44:13 IST" duration-ms="8184">
+  <suite started-at="2022-08-24T17:08:14 IST" name="Default suite" finished-at="2022-08-24T17:08:36 IST" duration-ms="22167">
     <groups>
     </groups>
-    <test started-at="2022-08-21T16:44:05 IST" name="Default test" finished-at="2022-08-21T16:44:13 IST" duration-ms="8184">
-      <class name="Test_Varify.Test_2">
-        <test-method is-config="true" signature="BT()[pri:0, instance:Test_Varify.Test_2@5ffead27]" started-at="2022-08-21T16:44:05 IST" name="BT" finished-at="2022-08-21T16:44:12 IST" duration-ms="6966" status="PASS">
+    <test started-at="2022-08-24T17:08:14 IST" name="Default test" finished-at="2022-08-24T17:08:36 IST" duration-ms="22167">
+      <class name="iframe.Iframe">
+        <test-method signature="iframe()[pri:0, instance:iframe.Iframe@3835c46]" started-at="2022-08-24T17:08:14 IST" name="iframe" finished-at="2022-08-24T17:08:36 IST" duration-ms="22083" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- BT -->
-        <test-method signature="test_01()[pri:0, instance:Test_Varify.Test_2@5ffead27]" started-at="2022-08-21T16:44:12 IST" name="test_01" finished-at="2022-08-21T16:44:12 IST" duration-ms="672" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test_01 -->
-        <test-method is-config="true" signature="AM()[pri:0, instance:Test_Varify.Test_2@5ffead27]" started-at="2022-08-21T16:44:12 IST" name="AM" finished-at="2022-08-21T16:44:13 IST" duration-ms="405" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- AM -->
-      </class> <!-- Test_Varify.Test_2 -->
+        </test-method> <!-- iframe -->
+      </class> <!-- iframe.Iframe -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
