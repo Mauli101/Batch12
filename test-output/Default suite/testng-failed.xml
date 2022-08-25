@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="TestNG2.Test_D_4">
+      <class name="iframe.Iframe">
         <methods>
-          <include name="test_1"/>
+          <include name="iframe"/>
         </methods>
-      </class> <!-- TestNG2.Test_D_4 -->
+      </class> <!-- iframe.Iframe -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
